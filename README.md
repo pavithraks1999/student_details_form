@@ -56,6 +56,3 @@ This is a simple web application that allows users to input, store, and view stu
 3. Submit the form to save the student data.
 4. Visit the **Student List** page to view all the students entered through the form.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
